@@ -15,4 +15,4 @@ categories: update
 
 Приятного просмотра!
 
-[Смотреть видео на YouTube](https://www.youtube.com/watch?v=XXXXXXXXXXX)
+[Смотреть видео на YouTube](https://youtu.be/8GyDDK9RLsQ)
