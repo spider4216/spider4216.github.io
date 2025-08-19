@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Мой доклад на Kolesa PHP Meetup"
-date:   2024-03-22 19:07:54 +0500
+date:   2022-03-22 19:07:54 +0500
 categories: update
 ---
 
